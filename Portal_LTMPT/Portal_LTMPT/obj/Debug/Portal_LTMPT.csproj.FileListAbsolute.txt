@@ -1,0 +1,21 @@
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.csprojResolveAssemblyReference.cache
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.MainForm.resources
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.csproj.GenerateResource.Cache
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\bin\Debug\Portal_LTMPT.exe.config
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\bin\Debug\Portal_LTMPT.exe
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\bin\Debug\Portal_LTMPT.pdb
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.exe
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.pdb
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.Halaman_Utama.resources
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.Beranda.resources
+D:\UAS\Portal_LTMPT\Portal_LTMPT\bin\Debug\Portal_LTMPT.exe.config
+D:\UAS\Portal_LTMPT\Portal_LTMPT\bin\Debug\Portal_LTMPT.exe
+D:\UAS\Portal_LTMPT\Portal_LTMPT\bin\Debug\Portal_LTMPT.pdb
+D:\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.csprojResolveAssemblyReference.cache
+D:\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.Beranda.resources
+D:\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.Halaman_Utama.resources
+D:\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.MainForm.resources
+D:\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.csproj.GenerateResource.Cache
+D:\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.exe
+D:\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.pdb
+D:\UAS\Portal_LTMPT\Portal_LTMPT\obj\Debug\Portal_LTMPT.Database.resources
